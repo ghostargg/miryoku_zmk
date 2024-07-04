@@ -19,7 +19,7 @@ U_NP,              U_NP,              U_LT(U_VTWO, ESC), &kp LCTRL,         &kp 
 &kp Q,             &kp W,             &kp E,             &kp R,             &kp T,             U_NA,              U_NA,              U_NA,              U_NA,              U_NA,             \
 &kp A,             &kp S,             &kp D,             &kp F,             &kp G,             U_NA,              U_NA,              U_NA,              U_NA,              U_NA,   \
 U_MT(ESC, Z),      &kp X,             &kp C,             &kp V,             &kp B,             U_NA,              U_NA,              U_NA,              U_NA,              U_NA,\
-U_NP,              U_NP,              &kp LSHIFT, &kp LCTRL,&kp SPACE,U_LT(U_SYM, RET),  U_LT(U_NUM, BSPC), U_LT(U_FUN, DEL),  U_NP,              U_NP
+U_NP,              U_NP,              &kp LSHIFT, &kp LCTRL,U_LT(U_FUN, SPACE) ,U_LT(U_SYM, RET),  U_LT(U_NUM, BSPC), U_LT(U_FUN, DEL),  U_NP,              U_NP
 
 #define MIRYOKU_LAYER_VTWO \
 &kp B,             U_NA,              U_NA,              &kp N4,            &kp CAPSLOCK,      U_NA,              U_NA,              U_NA,              U_NA,              U_NA,            \
