@@ -16,7 +16,7 @@ U_NP,              U_NP,              &kp K_APP,         &kp TAB,           &kp 
 U_NP,              U_NP,              U_LT(U_VTWO, ESC), &kp LCTRL,         &kp SPACE,         U_NA,              U_NA,              U_NA,              U_NP,              U_NP 
 
 #define MIRYOKU_LAYER_WOW \
-&kp Q,             &kp W,             &kp E,             &kp R,             &kp T,             &kp Y,             &kp U,             &kp I,             &kp O,             &kp P,             \
+&kp Q,             &kp W,             &kp E,             &kp R,             &kp T,             &u_to_U_WOW,       &u_to_U_BASE,      &u_to_U_EXTRA,     &u_to_U_TAP,       U_BOOT,                \
 &kp A,             &kp S,             &kp D,             &kp F,             &kp G,             &kp H,             U_MT(LSHFT, J),    U_MT(LCTRL, K),    U_MT(LALT, L),     U_MT(LGUI, SQT),   \
 U_MT(ESC, Z),      &kp X,             &kp C,             &kp V,             &kp B,             &kp N,             &kp M,             &kp COMMA,         U_MT(RALT, DOT),   U_LT(U_BUTTON, SLASH),\
 U_NP,              U_NP,              &kp LSHIFT, &kp LCTRL,U_LT(U_FUN, SPACE) ,U_LT(U_SYM, RET),  U_LT(U_NUM, BSPC), U_LT(U_FUN, DEL),  U_NP,              U_NP
